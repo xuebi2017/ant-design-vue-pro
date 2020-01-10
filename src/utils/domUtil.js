@@ -16,4 +16,4 @@ export const setDocumentTitle = function (title) {
   }
 }
 
-export const domTitle = 'Ant Design Vue Pro'
+export const domTitle = 'Ant Design vue Pro'
